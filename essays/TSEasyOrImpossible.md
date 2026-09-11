@@ -9,6 +9,8 @@ labels:
   - Typescript
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/TypeScript.png"> 
+
 ## Thoughts about TypeScript
 
 Do I think TypeScript is easy? No. Do I think TypeScript is impossible? No. As a beginner in TypeScript, having never heard of it before, I thought it would be quite difficult myself. This is not the case. As I’ve learned and practiced with TypeScript, I’ve found it has a happy medium between the two.
