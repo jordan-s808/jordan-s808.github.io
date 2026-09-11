@@ -11,7 +11,7 @@ labels:
 ---
 
 <div class="rounded float-start pe-4" style="width:175px;"> 
-  <img class="rounded" src="../img/Smart.png" width="150">
+  <img class="rounded" src="../img/Smart.jpg" width="150">
   <br>
   <small>source <a href="https://en.wikipedia.org/wiki/Roll_Safe">Wikipedia</a></small> 
 </div>
