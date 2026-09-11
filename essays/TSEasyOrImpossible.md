@@ -10,7 +10,7 @@ labels:
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/TypeScript.png"> 
-###### source: https://en.wikipedia.org/wiki/TypeScript ######
+source: https://en.wikipedia.org/wiki/TypeScript 
 
 ## Thoughts about TypeScript
 
