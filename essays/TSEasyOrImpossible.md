@@ -9,8 +9,11 @@ labels:
   - Typescript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/TypeScript.png"> 
-source: https://en.wikipedia.org/wiki/TypeScript 
+<div class="rounded float-start pe-4" style="width:200px;"> 
+  <img class="rounded" src="../img/TypeScript.png" width="200">
+  <br>
+  <small>source <a href="https://en.wikipedia.org/wiki/TypeScript">en.wikipedia.org/wiki/TypeScrip</a></small> 
+</div>
 
 ## Thoughts about TypeScript
 
