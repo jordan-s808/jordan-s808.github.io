@@ -9,7 +9,7 @@ labels:
   - Typescript
 ---
 
-<div class="rounded float-start pe-4" style="width:200px;"> 
+<div class="rounded float-start pe-4" style="width:175px;"> 
   <img class="rounded" src="../img/TypeScript.png" width="150">
   <br>
   <small>source <a href="https://en.wikipedia.org/wiki/TypeScript">Wikipedia</a></small> 
