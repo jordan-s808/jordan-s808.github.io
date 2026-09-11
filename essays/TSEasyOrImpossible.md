@@ -9,7 +9,7 @@ labels:
   - Typescript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/TypeScript.png"> 
+<img width="200px" class="rounded float-start pe-4" src="../img/TypeScript.png"> 
 
 ## Thoughts about TypeScript
 
