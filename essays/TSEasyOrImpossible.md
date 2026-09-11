@@ -29,11 +29,11 @@ console.log(message);
 message = 21; // TypeScript would give you an error message here since its a number not a string as defined
 ```
 
-## Do you think TypeScript is a good or bad programming language from a software engineering perspective?
+## A Software Engineering Perspective
 
 I think that TypeScript is a good programming language from a software engineering perspective. Static typing and specifying types, for example, make it easier on the programmer to code. I think it would help when creating software because you can easily tell if you messed up something or wrote a line wrong. The specific definitions would make it easily identifiable and save time looking for a single wrong line within hundreds to thousands of lines.
 
-## Did you find the practice WODs to be useful?
+## The Value of WODs
 
 I think that they are a very useful type of practice and they help to improve your knowledge and skills very well. If you do not know what a WOD is, it is basically a “workout of the day” and in the programming sense, we try to come up with a solution to a problem or question within a specific time frame. The times are non-linear, in the sense that each practice WOD has a different time frame, each labeled with Rx (mastery of material), Av (superior performance), Sd (acceptable performance), and DNF (did not finish within the time frame). It is recommended that you attempt the practice WOD and finish within Rx or Av. If you get a time of DNF, you should stop your time, find out where you went wrong, and then attempt to complete the WOD in a quicker time. This helps you to learn how to come up with a solution quickly, utilize the code efficiently, and practice your skills while leaving room for improvement. This may not be a fun practice for everyone, but in my opinion, I think that it is one of the best practice methods I’ve seen and can really help you to improve.
 
