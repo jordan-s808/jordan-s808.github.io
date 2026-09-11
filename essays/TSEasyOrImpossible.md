@@ -18,6 +18,14 @@ Do I think TypeScript is easy? No. Do I think TypeScript is impossible? No. As a
 
 If you have previous knowledge of other programming languages, TypeScript isn’t too difficult, since some of it is quite similar. There are, however, some things that are different from other programming languages that make TypeScript interesting to learn and give a slight challenge if you haven’t used it before. For example, one of the things that I found very interesting and also took me a little time to learn is static typing. Being able to define the type and being notified if the types don’t match before running the code is really helpful.
 
+```ruby
+let message: string = "Hello, World!"; // string is the type defined
+
+console.log(message);
+
+message = 21; // TypeScript would give you an error message here since its a number not a string as defined
+```
+
 ## Do you think TypeScript is a good or bad programming language from a software engineering perspective?
 
 I think that TypeScript is a good programming language from a software engineering perspective. Static typing and specifying types, for example, make it easier on the programmer to code. I think it would help when creating software because you can easily tell if you messed up something or wrote a line wrong. The specific definitions would make it easily identifiable and save time looking for a single wrong line within hundreds to thousands of lines.
