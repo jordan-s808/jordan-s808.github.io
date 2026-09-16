@@ -26,7 +26,7 @@ let message: string = "Hello, World!"; // string is the type defined
 
 console.log(message);
 
-message = 21; // TypeScript would give you an error message here since its a number not a string as defined
+message = 24; // TypeScript would give you an error message here since its a number not a string as defined
 ```
 
 ## A Software Engineering Perspective
