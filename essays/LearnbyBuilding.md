@@ -9,8 +9,8 @@ labels:
   - Thoughts
 ---
 
-<div class="rounded float-start pe-4" style="width:175px;"> 
-  <img class="rounded" src="../img/SoftwareEngineering.png" width="150">
+<div class="rounded float-start pe-4" style="width:200px;"> 
+  <img class="rounded" src="../img/SoftwareEngineering.png" width="200">
   <br>
   <small>source <a href="https://www.magnific.com/free-photos-vectors/software-engineer-background">Magnific</a></small> 
 </div>
