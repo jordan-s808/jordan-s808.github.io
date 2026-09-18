@@ -12,7 +12,7 @@ summary: "A two dice pig game assignment I did in ICS 111."
 
 <img class="img-fluid" src="..img/Twodicepig.png">
 
-## what is it about?
+## What is it about?
 
 The two dice pig game was an assignment that I had to do for ICS 111 using Java. The game lets you have two players, name the players, set the winning score, and then actually play the game in a panel. It's basically a dice game where two players roll the dice and can either hold their number, roll again, get doubles, or lose all their points.
 
