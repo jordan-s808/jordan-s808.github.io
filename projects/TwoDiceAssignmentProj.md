@@ -4,7 +4,7 @@ type: project
 image: img/Twodicepig.png
 title: "Two Dice Pig Game"
 date: 2026-09-17
-published: false
+published: True
 labels:
   - Assignment
 summary: "A two dice pig game assignment I did in ICS 111."
