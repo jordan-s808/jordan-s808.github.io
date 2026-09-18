@@ -10,7 +10,7 @@ labels:
 ---
 
 <div class="rounded float-start pe-4" style="width:175px;"> 
-  <img class="rounded" src="img/SoftwareEngineering.png" width="150">
+  <img class="rounded" src="https://github.com/jordan-s808/jordan-s808.github.io/blob/main/img/SoftwareEngineering.png" width="150">
   <br>
   <small>source <a href="https://www.magnific.com/free-photos-vectors/software-engineer-background">Magnific</a></small> 
 </div>
