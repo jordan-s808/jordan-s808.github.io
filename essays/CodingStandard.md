@@ -11,9 +11,8 @@ labels:
 ---
 
 <div class="rounded float-start pe-4" style="width:200px;"> 
-  <img class="rounded" src="../img/SoftwareEngineering.png" width="200" alt="An example picture of ESLint">
+  <img class="rounded" src="../img/ESLintEx.png" width="350" alt="An example picture of ESLint">
   <br>
-  <small>source <a href=""></a></small> 
 </div>
 
 <h2 align="center"> Learning Through ESLint</h2>
