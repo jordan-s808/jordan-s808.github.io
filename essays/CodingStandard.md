@@ -10,11 +10,11 @@ labels:
   - ESLint
 ---
 
+<h2 align="center"> Learning Through ESLint</h2>
+
 <div class="rounded float-start pe-4 pb-2" style="width:350px;"> 
   <img class="rounded img-fluid" src="../img/ESLintEx.png" width="350" alt="An example picture of ESLint">
 </div>
-
-<h2 align="center"> Learning Through ESLint</h2>
 
 I believe some coding standards can help you learn a programming language, and ESLint is a good example. After using it with VSCode, I found that it points out small mistakes as I write, which teaches me the language's conventions in the moment instead of after the fact. For instance, being told about an unused variable or a missing type makes me ask why it matters, and answering that question teaches me something about how TypeScript works. Much like static typing, it catches problems before I run the code, saving me from hunting through many lines for one wrong character or mistyped word.
 
