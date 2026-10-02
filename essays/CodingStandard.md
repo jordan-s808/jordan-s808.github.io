@@ -10,9 +10,8 @@ labels:
   - ESLint
 ---
 
-<div class="rounded float-start pe-4" style="width:200px;"> 
-  <img class="rounded" src="../img/ESLintEx.png" width="350" alt="An example picture of ESLint">
-  <br>
+<div class="rounded float-start pe-4 pb-2" style="width:350px;"> 
+  <img class="rounded img-fluid" src="../img/ESLintEx.png" width="350" alt="An example picture of ESLint">
 </div>
 
 <h2 align="center"> Learning Through ESLint</h2>
